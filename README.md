@@ -1,9 +1,9 @@
-# TMDB Movies UI
+# DXX Movies UI
 
 A movie browsing UI inspired by TMDB.
 
 ## Tech Stack
-- Next.js (App Router)
+- Next.js
 - TypeScript
 - Tailwind CSS
 - TMDB API
